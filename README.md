@@ -4,11 +4,15 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/5pal"
-    width="600"
-    height="120"
+    width="900"
+    height="200"
   />
 </a>
 
+<!--
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/5pal"/>
+</a>
 <!--
 **5pal/5pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
