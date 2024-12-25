@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/5pal"
-    width="900"
-    height="200"
-  />
+  <img src="https://render.gitanimals.org/lines/5pal?pet-id=1" width="900" height="200"/>
 </a>
 
 <!--
